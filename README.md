@@ -33,6 +33,6 @@ Source code for the results in the article: Colizzi, Hogeweg 2016. High cost enh
   
   Do tell me about any bug you may find.
   ENJOY!
-  Enrico Sandro Colizzi (email: istidina -at- gmail -dot- com)
+  Enrico Sandro Colizzi (email: enricosandro.colizzi -at- gmail -dot- com)
   
 ##############################################################################################################
