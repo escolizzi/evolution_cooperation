@@ -24,7 +24,7 @@ Source code for the results in the article: Colizzi, Hogeweg 2016. High cost enh
   My code uses the Unlicense, so do with it what you want!
   Citing us if you publish anything with it 'is' highly appreciated, though :P
 
-  Once you compiled the code, type something like: "./public_good_5 jksdfnksjd" to see the command line options.
+  Once you compiled the code, type something like: "./public_good_5 -what_to_do" to see the command line options.
   The program generates three types of outputs:
   - "dataPB.txt" is a text file which contains random samples of the entire population at regular time intervals.
     Beware: This file may get big if you sample too many individuals too frequently!
